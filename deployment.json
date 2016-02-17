@@ -1,5 +1,5 @@
 {
         "strategy": "hanaxs",
-	"host": "10.1.8.111:30315",
-	"root": "rootrepo"
+	"host": "10.1.8.111:30115",
+	"root": "SPAonHANA"
 }
